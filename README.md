@@ -4,7 +4,7 @@ GarageMote
 Moteino garage controller shield
 
 ###License
-CC-BY-SA 3.0
+[CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/us/)
 
 ###Writeup
 http://lowpowerlab.com/blog/2013/10/11/raspberrypi-home-automation-gateway-hardware-and-demo/
